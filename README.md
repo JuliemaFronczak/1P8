@@ -1,1 +1,1 @@
-# 1P8
+# Coeficiente de pressão, agulo de attack e derivadas de flutter
